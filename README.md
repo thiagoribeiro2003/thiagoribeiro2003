@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - Técnico de informática para Internet - Senac Penha
 - Atualmente no segundo semestre em Análise e desenvolvimento de sistemas - Unicid 
 
+### Objetivos
+Buscando conhecer novas pessoas da áreas 
+
