@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me chamo Thiago Ribeiro, atualmente tenho 19 anos, e há 1 ano conheci o mundo da programação, onde estudo com o principal foco na área de Back-End.
+## Me chamo Thiago Ribeiro, atualmente tenho 19 anos, e há 1 ano conheci o mundo da programação, onde estudo com o principal foco na área de Back-End.
 
