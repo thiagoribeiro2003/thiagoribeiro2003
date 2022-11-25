@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ### Formação
 - Técnico de informática para Internet - Senac Penha
-- Atualmente no segundo semestre Análise e desenvolvimento de sistemas - Unicid 
+- Atualmente no segundo semestre em Análise e desenvolvimento de sistemas - Unicid 
 
