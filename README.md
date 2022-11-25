@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - Atualmente no segundo semestre em Análise e desenvolvimento de sistemas - Unicid 
 
 ### Objetivos
-Buscando conhecer novas pessoas da áreas 
+Buscando conhecer novas pessoas da área
 
