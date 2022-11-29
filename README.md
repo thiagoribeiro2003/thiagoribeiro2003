@@ -1,4 +1,4 @@
-# Olá, Bem Vindo ao meu Perfil!!! 👋
+# Olá, Bem Vindo(a) ao meu Perfil!!! 👋
 
 <!--
 **thiagoribeiro2003/thiagoribeiro2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
