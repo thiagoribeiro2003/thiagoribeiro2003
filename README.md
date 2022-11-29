@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Me chamo Thiago Ribeiro, atualmente tenho 19 anos, e há 1 ano conheci o mundo da programação, onde estudo com o principal foco na área de Back-End.
 
 ### Formação
-- Técnico de informática para Internet - Senac Penha
-- Atualmente no segundo semestre em Análise e desenvolvimento de sistemas - Unicid 
+- 🖥️ Técnico de informática para Internet - Senac Penha;
+- ⌨️ Cursando Análise e desenvolvimento de sistemas - Unicid; 
 
 <!--
 ### Objetivos
