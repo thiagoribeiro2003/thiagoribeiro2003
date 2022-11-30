@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Me chamo Thiago Ribeiro e atualmente tenho 19 anos
+Me chamo Thiago Ribeiro e atualmente tenho 19 anos
 ### Formação
 - 🎓 Técnico de informática para Internet - Senac Penha;
 - 📚 Cursando Análise e desenvolvimento de sistemas - Unicid; 
