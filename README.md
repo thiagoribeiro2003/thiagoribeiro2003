@@ -20,8 +20,5 @@ Me chamo Thiago Ribeiro e atualmente tenho 19 anos;
 - 🎓 Técnico de informática para Internet - Senac;
 - 📚 Cursando Análise e desenvolvimento de sistemas - Unicid; 
 
-<!--
-### Objetivos
-Buscando conhecer novas pessoas da área
--->
+
 
