@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Me chamo Thiago Ribeiro e atualmente tenho 19 anos
 ### Formação
-- 🎓 Técnico de informática para Internet - Senac Penha;
+- 🎓 Técnico de informática para Internet - Senac;
 - 📚 Cursando Análise e desenvolvimento de sistemas - Unicid; 
 
 <!--
