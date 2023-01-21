@@ -21,15 +21,7 @@ Me chamo Thiago e atualmente tenho 19 anos;
 - 🎓 Técnico de informática para Internet - Senac;
 - 📚 Cursando Análise e desenvolvimento de sistemas - Unicid; 
 
-### Tecnologias
-- HTML
-- CSS
-- JavaScript
-- PHP
-- SQL
-- Java
-- WordPrees
-- React e React-Native
+
  
  
 
