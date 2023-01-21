@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 Me chamo Thiago e atualmente tenho 19 anos;
 
+### Formação
+- 🎓 Técnico de informática para Internet - Senac;
+- 📚 Cursando Análise e desenvolvimento de sistemas - Unicid; 
+
 ### Tecnologias
 - HTML
 - CSS
@@ -27,9 +31,7 @@ Me chamo Thiago e atualmente tenho 19 anos;
 - WordPrees
 - React e React-Native
  
- ### Formação
-- 🎓 Técnico de informática para Internet - Senac;
-- 📚 Cursando Análise e desenvolvimento de sistemas - Unicid; 
+ 
 
 
 
