@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 
 Me chamo Thiago e atualmente tenho 19 anos;
 
--  Atualmente estou estudando: Java, React-Native
+### Tecnologias
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+- Java
+- WordPrees
+- React e React-Native
  
  ### Formação
 - 🎓 Técnico de informática para Internet - Senac;
