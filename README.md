@@ -19,7 +19,7 @@ Bem-vindo ao meu GitHub! Aqui é onde minha jornada de aprendizado e paixão por
 
 Sinta-se à vontade para vasculhar meus repositórios, onde você encontrará uma variedade de projetos e estudos em diferentes estágios de desenvolvimento. Desde códigos experimentais até projetos mais sólidos, cada um deles reflete meu comprometimento com a melhoria contínua e o estudo constante.
 
-Para mais detalhes sobre minha trajetória, confira meu Linkedin: [https://www.linkedin.com/in/thiago-ribeiro-lopes-da-silva/].
+Para mais detalhes sobre minha trajetória, confira meu Linkedin: https://www.linkedin.com/in/thiago-ribeiro-lopes-da-silva/.
 
 
 
