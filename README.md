@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me chamo Thiago e atualmente tenho 19 anos;
+Bem-vindo ao meu GitHub! Aqui é onde estudo e trabalho em projetos. Fiquem à vontade para explorar e entrar em contato. Para mais detalhes sobre minha trajetória, confira meu LinkedIn: [[](https://www.linkedin.com/in/thiago-ribeiro-lopes-da-silva/)]. Vamos aprender e colaborar juntos!;
 
 ### Formação
 - 🎓 Técnico de informática para Internet - Senac;
