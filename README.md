@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bem-vindo ao meu GitHub! Aqui é onde minha jornada de aprendizado e paixão por projetos se desenrola. Este espaço é dedicado a explorar novas ideias, aprimorar minhas habilidades e colaborar em projetos empolgantes.
+Bem-vindo ao meu GitHub! Aqui é onde minha jornada de aprendizado e paixão por projetos se desenrola. Este espaço é dedicado a explorar novas ideias, aprimorar minhas habilidades e colaborar em projetos.
 
 Sinta-se à vontade para vasculhar meus repositórios, onde você encontrará uma variedade de projetos e estudos em diferentes estágios de desenvolvimento. Desde códigos experimentais até projetos mais sólidos, cada um deles reflete meu comprometimento com a melhoria contínua e o estudo constante.
 
