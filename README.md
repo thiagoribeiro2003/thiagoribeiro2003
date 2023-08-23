@@ -23,7 +23,7 @@ Sinta-se à vontade para vasculhar meus repositórios, onde você encontrará um
 
 
 
-### Formação Acadêmica
+## Formação Acadêmica
 - 🎓 (Formado) Técnico em Informática para Internet - Senac Penha
 - 📚 (Cursando) Análise e Desenvolvimento de Sistemas - UNICID
 
